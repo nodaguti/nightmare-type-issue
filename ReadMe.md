@@ -8,7 +8,7 @@ This is a demo application to describe an issue existing in `nightmare.type()` o
 % npm test
 ```
 
-## Extected Result
+## Expected Result
 No error comes up.
 
 ## Actual Result
