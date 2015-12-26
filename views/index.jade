@@ -1,0 +1,10 @@
+doctype html
+html
+  head
+    title Nightmare type() issue
+  body
+    if message
+      p.message= message
+    form(action='/', method='post')
+      textarea(name='message')
+      input(type='submit')
