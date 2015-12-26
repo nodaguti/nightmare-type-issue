@@ -3,7 +3,10 @@
 This is a demo application to describe an issue existing in `nightmare.type()` of Nightmare v2.1.0.
 
 ## Step to reproduce
-```
+```sh
+% git clone git@github.com:nodaguti/nightmare-type-issue.git
+% cd nightmare-type-issue
+% npm install
 % npm start &
 % npm test
 ```
